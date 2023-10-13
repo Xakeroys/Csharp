@@ -1,0 +1,15 @@
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\bin\Debug\net6.0\ll.exe
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\bin\Debug\net6.0\ll.deps.json
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\bin\Debug\net6.0\ll.runtimeconfig.json
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\bin\Debug\net6.0\ll.dll
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\bin\Debug\net6.0\ll.pdb
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\ll.csproj.AssemblyReference.cache
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\ll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\ll.AssemblyInfoInputs.cache
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\ll.AssemblyInfo.cs
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\ll.csproj.CoreCompileInputs.cache
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\ll.dll
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\refint\ll.dll
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\ll.pdb
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\ll.genruntimeconfig.cache
+C:\Users\Корица\OneDrive\Рабочий стол\c#\DZ\Задача 13\ll\obj\Debug\net6.0\ref\ll.dll
